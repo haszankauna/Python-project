@@ -1,0 +1,1 @@
+# This is a python project that allows users to input their names in the input field and also time of arrival. It also let's users know if they're late or early. 
